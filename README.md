@@ -3,4 +3,4 @@ Bootstrap 4 theme for Select2.
 
 ## Installation
 
-`npm install bootatrap4-select2-theme`
+`npm install bootstrap4-select2-theme`

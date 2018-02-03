@@ -1,6 +1,6 @@
 {
   "name": "bootstrap4-select2-theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bootstrap 4 theme for Select2.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

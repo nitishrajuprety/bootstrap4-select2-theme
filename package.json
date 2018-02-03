@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap4-select2-theme",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 theme for Select2.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishrajuprety/bootstrap4-select2-theme.git"
+  },
+  "keywords": [
+    "select2",
+    "bootstrap",
+    "4"
+  ],
+  "dependencies": {
+    "select2": ">=4.0.5",
+    "boostrap": ">=4.0.0"
+  },
+  "author": "Nitish Raj Uprety",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitishrajuprety/bootstrap4-select2-theme/issues"
+  },
+  "homepage": "https://github.com/nitishrajuprety/bootstrap4-select2-theme#readme"
+}
